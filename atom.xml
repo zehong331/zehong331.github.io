@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>咕咕咕のBlog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-06-27T05:01:51.052Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Gary Zheng</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/06/27/hello-world/"/>
+    <id>http://example.com/2021/06/27/hello-world/</id>
+    <published>2021-06-27T05:01:51.052Z</published>
+    <updated>2021-06-27T05:01:51.052Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://example.com/2021/06/25/about/"/>
+    <id>http://example.com/2021/06/25/about/</id>
+    <published>2021-06-25T13:37:04.000Z</published>
+    <updated>2021-06-25T07:10:36.464Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;A Coder, live in Guiyang, China.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;姓名：郑泽洪&lt;br&gt;现居：贵阳&lt;/p&gt;
+&lt;p&gt;Gitee: &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2021/06/25/test/"/>
+    <id>http://example.com/2021/06/25/test/</id>
+    <published>2021-06-25T07:21:17.000Z</published>
+    <updated>2021-06-25T07:39:09.835Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;dsafsafWelcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
