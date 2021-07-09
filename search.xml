@@ -16,11 +16,23 @@
 
 ]]></content>
       <categories>
-        <category>-数据分析</category>
+        <category>数据分析</category>
       </categories>
       <tags>
-        <tag>-数据分析</tag>
+        <tag>数据分析</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2021/06/25/test/</url>
+    <content><![CDATA[<p>dsafsafWelcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<p>这是一个图片测试</p>
+<img src="/2021/06/25/test/image1.png" class="" title="This is an example image">
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% asset_img image1.png This is an example image %&#125;</span><br></pre></td></tr></table></figure>
+
+<p><img src="%5Ctest%5Cimage1.png"></p>
+]]></content>
   </entry>
   <entry>
     <title>About Me</title>
@@ -39,17 +51,5 @@
       <tags>
         <tag>随笔</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2021/06/25/test/</url>
-    <content><![CDATA[<p>dsafsafWelcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<p>这是一个图片测试</p>
-<img src="/2021/06/25/test/image1.png" class="" title="This is an example image">
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% asset_img image1.png This is an example image %&#125;</span><br></pre></td></tr></table></figure>
-
-<p><img src="%5Ctest%5Cimage1.png"></p>
-]]></content>
   </entry>
 </search>
